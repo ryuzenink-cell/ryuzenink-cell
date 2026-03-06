@@ -2,7 +2,9 @@
 
 💻 Estudante de Administração e Engenharia de Software  
 🚀 Desenvolvedor Web e criador de produtos digitais  
-🎨 Interessado em UI/UX, Web Design e tecnologia
+🎨 Interessado em UI/UX, Web Design e tecnologia  
+
+_Curriculo Lattes_: [https://1drv.ms/w/c/02ecc47e19b24956/IQAsIhRtdjufTqxaIsJSafQFAZ1Lw8NYRnoa8Orjrq1p3ks?e=UxepSE](https://1drv.ms/w/c/02ecc47e19b24956/IQAsIhRtdjufTqxaIsJSafQFAZ1Lw8NYRnoa8Orjrq1p3ks?e=UxepSE)
 
 ---
 
