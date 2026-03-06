@@ -9,11 +9,11 @@
 ## 🚀 Projetos em destaque
 
 🌐 Portfólio  
-https://ryuzenink-cell.github.io/lp/
+[https://ryuzenink-cell.github.io/lp/](https://github.com/ryuzenink-cell/lp)
 
-📰 RetroByte
-https://retrobyte.com.br/
-Blog sobre história da computação e tecnologia
+📰 RetroByte  
+https://retrobyte.com.br/  
+Blog sobre história da computação e tecnologia  
 
 ---
 
