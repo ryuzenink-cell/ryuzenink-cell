@@ -6,47 +6,72 @@
 
 ---
 
-## 🚀 Projetos em destaque
+## 🎯 Objetivo
 
-🌐 Portfólio  
-[https://ryuzenink-cell.github.io/lp/](https://github.com/ryuzenink-cell/lp)
+Busco oportunidades de estágio onde eu possa:
 
-📰 RetroByte  
-https://retrobyte.com.br/  
-Blog sobre história da computação e tecnologia  
+- Evoluir minhas habilidades técnicas
+- Atuar com dados, processos e sistemas
+- Crescer dentro de um ambiente que valorize aprendizado e desenvolvimento
 
 ---
 
-## 🧰 Tecnologias
+## 🚀 Projetos em Destaque
+
+🔹 Portfólio: [https://ryuzenink-cell.github.io/lp/](https://github.com/ryuzenink-cell/lp)  
+🔹 Blog sobre história da computação, tecnologia e gestão: https://retrobyte.com.br/  
+🔹 API REST de Controle Financeiro   
+🔹 Sistemas web para criadores (portfólio, landing pages e media kit)  
+🔹 Integrações com APIs externas (ex: Jikan API)  
+🔹 Sites responsivos e páginas dinâmicas com JavaScript  
+
+---
+
+## 💻 Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
 
 ---
 
-## ⚙️ Ferramentas & Plataformas
+## ⚙️ Frameworks & Libraries
 
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Axios](https://img.shields.io/badge/Axios-purple?style=for-the-badge&logo=axios)
+![CORS](https://img.shields.io/badge/CORS-lightgrey?style=for-the-badge)
+![Dotenv](https://img.shields.io/badge/Dotenv-green?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/pg-blue?style=for-the-badge&logo=postgresql)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![Font Awesome](https://img.shields.io/badge/Font%20Awesome-blue?style=for-the-badge&logo=fontawesome)
 
 ---
 
-## 🧩 Frameworks & Libraries
+## 🛠️ Ferramentas & Plataformas
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![Insomnia](https://img.shields.io/badge/Insomnia-purple?style=for-the-badge&logo=insomnia)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge&logo=sqlite)
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
+![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
+
+---
 
 ## 📫 Contato
 
+📧 hello@ryuzen.ink  
+🌐 https://ryuzenink-cell.github.io/lp/  
+💼 LinkedIn: www.linkedin.com/in/adrianrollimsantos  
+
 ---
 
-📧 hello@ryuzen.ink  
-🌐 https://ryuzenink-cell.github.io/lp/
+⭐ Sempre buscando aprender, construir e evoluir.
