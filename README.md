@@ -36,6 +36,7 @@ Busco oportunidades de estágio onde eu possa:
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
