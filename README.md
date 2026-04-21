@@ -70,7 +70,7 @@ Busco oportunidades de estágio onde eu possa:
 ## 📫 Contato
 
 📧 hello@ryuzen.ink  
-🌐 https://ryuzenink-cell.github.io/lp/  
+🌐 [https://ryuzenink-cell.github.io/lp/](https://portifolio.ryuzen.ink/)  
 💼 LinkedIn: www.linkedin.com/in/adrianrollimsantos  
 
 ---
